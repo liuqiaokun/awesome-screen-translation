@@ -60,6 +60,7 @@ Whether you're playing foreign-language games, reading untranslated manga, or na
                                          - | [Google Translate Extension](https://chrome.google.com/webstore/detail/google-translate/) | Chrome | Right-click to translate selected text |
                                          - | [DeepL Extension](https://www.deepl.com/en/chrome-extension) | Chrome/Edge | High-quality translation popup |
                                          - | [Mate Translate](https://gikken.co/mate-translate/) | Chrome/Safari/Firefox | Inline translation, 103 languages |
+                                         - | [Manga Translator](https://chromewebstore.google.com/detail/manga-translator/lalcidikgkhicibmghdbbpdhpelpdbdn) | Chrome | An image-based [manga translator](https://www.mangatranslate.com/) for compatible on-page images and Canvas; single/batch translation, limited free trials and paid credits |
                                         
                                          - ## Use Cases
                                         
